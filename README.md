@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @viniciussmelo89
+- 👀 I’m interested in NodeJS, Laravel, HTML/CSS/JS (and SASS, template engines...) and MySQL/MongoDB
+- 🌱 I’m currently learning all the techs listed above (:
+- 💞️ I’m looking to collaborate on small projects, to get experience; web focused
+- 📫 How to reach me: viniciussmelo89@gmail.com; https://www.linkedin.com/in/vinicius-melo-79483b23/
